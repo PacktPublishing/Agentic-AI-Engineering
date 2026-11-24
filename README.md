@@ -22,7 +22,7 @@ Every chapter is a self-contained project. Create a virtual environment inside t
 | `Chapter05` | Who Runs the Show: Orchestration Patterns and Model Routing |
 | `Chapter06` | Agents That Collaborate: Multi-Agent Systems and A2A |
 | `Chapter07` | Does It Actually Work? Evaluating and Testing Agent Systems |
-| `Chapter08` | Keeping Agents in Line: Security, Guardrails, and Governance |
+| `Chapter08` | Securing Agents With Guardrails and Governance |
 | `Chapter09` | Watching the Money and the Machines: Observability, Cost, and the ROI Case |
 | `Chapter10` | Deploying Agents: Patterns and Infrastructure |
 | `Chapter11` | After the Launch: Operating, Evolving, and Surviving the Agents You Have Built |
