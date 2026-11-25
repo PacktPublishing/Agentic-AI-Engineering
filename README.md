@@ -25,7 +25,7 @@ Every chapter is a self-contained project. Create a virtual environment inside t
 | `Chapter08` | Securing Agents With Guardrails and Governance |
 | `Chapter09` | Measuring Agent Observability, Cost, and ROI |
 | `Chapter10` | Deploying Agents: Patterns and Infrastructure |
-| `Chapter11` | After the Launch: Operating, Evolving, and Surviving the Agents You Have Built |
+| `Chapter11` | Operating, Evolving, and Retiring Agents |
 
 Chapter 1 is conceptual and has no code.
 
